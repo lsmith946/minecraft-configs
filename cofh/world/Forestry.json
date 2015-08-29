@@ -1,0 +1,58 @@
+{
+	"copper": {
+        "template": "uniform",
+        "block": "ThermalFoundation:Ore",
+        "clusterSize": 7,
+        "numClusters": 6,
+        "minHeight": 29,
+        "maxHeight": 107,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }, 
+	
+	"tin": {
+        "template": "uniform",
+        "block": {"name": "ThermalFoundation:Ore", "metadata": 1},
+        "clusterSize": 8,
+        "numClusters": 6,
+        "minHeight": 13,
+        "maxHeight": 91,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"apatite": {
+        "template": "uniform",
+        "block": "Forestry:resources",
+        "clusterSize": 15,
+        "numClusters": 1,
+        "minHeight": 51,
+        "maxHeight": 125,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

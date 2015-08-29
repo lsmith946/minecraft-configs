@@ -1,0 +1,91 @@
+{
+    "marble": {
+        "template": "uniform",
+        "block": "chisel:marble",
+        "material": "stone",
+        "clusterSize": 48,
+        "numClusters": 5,
+        "minHeight": 37,
+        "maxHeight": 127,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"diorite": {
+        "template": "uniform",
+        "block": "chisel:diorite",
+        "material": "stone",
+        "clusterSize": 40,
+        "numClusters": 5,
+        "minHeight": 37,
+        "maxHeight": 101,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"andesite": {
+        "template": "uniform",
+        "block": "chisel:andesite",
+        "material": "stone",
+        "clusterSize": 64,
+        "numClusters": 3,
+        "minHeight": 37,
+        "maxHeight": 101,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"granite": {
+        "template": "uniform",
+        "block": "chisel:granite",
+        "material": "stone",
+        "clusterSize": 60,
+        "numClusters": 3,
+        "minHeight": 37,
+        "maxHeight": 101,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"limestone": {
+        "template": "uniform",
+        "block": "chisel:limestone",
+        "material": "stone",
+        "clusterSize": 48,
+        "numClusters": 5,
+        "minHeight": 37,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

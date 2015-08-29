@@ -1,0 +1,20 @@
+{
+	"salt": {
+        "template": "uniform",
+        "block": "harvestcraft:salt",
+        "clusterSize": 3,
+        "numClusters": 13,
+        "minHeight": 1,
+        "maxHeight": 124,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

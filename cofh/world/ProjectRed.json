@@ -1,0 +1,95 @@
+{
+    "marble": {
+        "template": "uniform",
+        "block": "chisel:marble",
+        "material": "stone",
+        "clusterSize": 6,
+        "numClusters": 2,
+        "minHeight": 31,
+        "maxHeight": 60,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"copper": {
+        "template": "uniform",
+        "block": "ThermalFoundation:Ore",
+        "clusterSize": 8,
+        "numClusters": 8,
+        "minHeight": 1,
+        "maxHeight": 63,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"tin": {
+        "template": "uniform",
+        "block": {"name": "ThermalFoundation:Ore", "metadata": 1},
+        "clusterSize": 8,
+        "numClusters": 4,
+        "minHeight": 1,
+        "maxHeight": 47,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"silver": {
+        "template": "uniform",
+        "block": {"name": "ThermalFoundation:Ore", "metadata": 2},
+        "clusterSize": 3,
+        "numClusters": 1,
+        "minHeight": 1,
+        "maxHeight": 31,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	
+	"electrotine": {
+        "template": "uniform",
+        "block": {"name": "ProjRed|Exploration:projectred.exploration.ore", "metadata": 6},
+        "clusterSize": 3,
+        "numClusters": 4,
+        "minHeight": 1,
+        "maxHeight": 15,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
