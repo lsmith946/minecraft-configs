@@ -1,5 +1,5 @@
 {
-    "copper": {
+    "TConstruct_copper": {
         "template": "uniform",
         "block": "ThermalFoundation:Ore",
         "clusterSize": 8,
@@ -18,7 +18,7 @@
         ]
 	},
 	
-	"tin": {
+	"TConstruct_tin": {
         "template": "uniform",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 1},
         "clusterSize": 7,
@@ -37,7 +37,7 @@
         ]
     },
 	
-	"aluminum": {
+	"TConstruct_aluminum": {
         "template": "uniform",
         "block": "ThermalFoundation:Ore",
         "clusterSize": 3,

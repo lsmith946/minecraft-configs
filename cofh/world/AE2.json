@@ -1,5 +1,5 @@
 {
-	"certus": {
+	"ae2_certus": {
         "template": "uniform",
         "block": [
             {"name": "appliedenergistics2:tile.OreQuartz", "weight": 93},

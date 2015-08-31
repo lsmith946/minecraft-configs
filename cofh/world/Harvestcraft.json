@@ -1,5 +1,5 @@
 {
-	"salt": {
+	"hc_salt": {
         "template": "uniform",
         "block": "harvestcraft:salt",
         "clusterSize": 3,

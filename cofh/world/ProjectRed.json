@@ -1,5 +1,5 @@
 {
-    "marble": {
+    "pr_marble": {
         "template": "uniform",
         "block": "chisel:marble",
         "material": "stone",
@@ -17,7 +17,7 @@
         ]
     },
 	
-	"copper": {
+	"pr_copper": {
         "template": "uniform",
         "block": "ThermalFoundation:Ore",
         "clusterSize": 8,
@@ -36,7 +36,7 @@
         ]
     },
 	
-	"tin": {
+	"pr_tin": {
         "template": "uniform",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 1},
         "clusterSize": 8,
@@ -55,7 +55,7 @@
         ]
     },
 	
-	"silver": {
+	"pr_silver": {
         "template": "uniform",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 2},
         "clusterSize": 3,
@@ -74,7 +74,7 @@
         ]
     },
 	
-	"electrotine": {
+	"pr_electrotine": {
         "template": "uniform",
         "block": {"name": "ProjRed|Exploration:projectred.exploration.ore", "metadata": 6},
         "clusterSize": 3,

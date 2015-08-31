@@ -1,5 +1,5 @@
 {
-	"amber": {
+	"TC_amber": {
         "template": "uniform",
         "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 7},
         "clusterSize": 1,
@@ -18,7 +18,7 @@
         ]
     },
 	
-	"cinnabar": {
+	"TC_cinnabar": {
         "template": "uniform",
         "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 0},
         "clusterSize": 1,

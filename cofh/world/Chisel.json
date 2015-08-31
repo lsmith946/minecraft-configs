@@ -1,5 +1,5 @@
 {
-    "marble": {
+    "chisel_marble": {
         "template": "uniform",
         "block": "chisel:marble",
         "material": "stone",
@@ -17,7 +17,7 @@
         ]
     },
 	
-	"diorite": {
+	"chisel_diorite": {
         "template": "uniform",
         "block": "chisel:diorite",
         "material": "stone",
@@ -35,7 +35,7 @@
         ]
     },
 	
-	"andesite": {
+	"chisel_andesite": {
         "template": "uniform",
         "block": "chisel:andesite",
         "material": "stone",
@@ -53,7 +53,7 @@
         ]
     },
 	
-	"granite": {
+	"chisel_granite": {
         "template": "uniform",
         "block": "chisel:granite",
         "material": "stone",
@@ -71,7 +71,7 @@
         ]
     },
 	
-	"limestone": {
+	"chisel_limestone": {
         "template": "uniform",
         "block": "chisel:limestone",
         "material": "stone",

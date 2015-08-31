@@ -1,5 +1,5 @@
 {
-	"yellorite": {
+	"br_yellorite": {
         "template": "uniform",
         "block": "BigReactors:YelloriteOre",
         "clusterSize": 6,

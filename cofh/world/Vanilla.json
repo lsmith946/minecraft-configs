@@ -1,5 +1,5 @@
 {
-    "dirt": {
+    "van_dirt": {
         "template": "uniform",
         "block": "dirt",
         "material": "minecraft:stone",
@@ -16,7 +16,7 @@
             1
         ]
     },
-    "gravel": {
+    "van_gravel": {
         "template": "uniform",
         "block": "gravel",
         "material": "stone",
@@ -33,7 +33,7 @@
             1
         ]
     },
-    "coal": {
+    "van_coal": {
         "template": "uniform",
         "block": "coal_ore",
         "material": "stone",
@@ -50,7 +50,7 @@
             1
         ]
     },
-    "iron": {
+    "van_iron": {
         "template": "uniform",
         "block": "iron_ore",
         "material": "minecraft:stone",
@@ -67,7 +67,7 @@
             1
         ]
     },
-    "gold": {
+    "van_gold": {
         "template": "uniform",
         "block": "gold_ore",
         "material": "minecraft:stone",
@@ -84,7 +84,7 @@
             1
         ]
     },
-    "redstone": {
+    "van_redstone": {
         "template": "uniform",
         "block": "redstone_ore",
         "material": "minecraft:stone",
@@ -101,7 +101,7 @@
             1
         ]
     },
-    "diamond": {
+    "van_diamond": {
         "template": "uniform",
         "block": "diamond_ore",
         "material": "minecraft:stone",
@@ -118,7 +118,7 @@
             1
         ]
     },
-    "lapis": {
+    "van_lapis": {
         "template": "normal",
         "block": "lapis_ore",
         "material": "minecraft:stone",
@@ -135,7 +135,7 @@
             1
         ]
     },
-    "quartz": {
+    "van_quartz": {
         "template": "uniform",
         "block": "quartz_ore",
         "material": "minecraft:netherrack",

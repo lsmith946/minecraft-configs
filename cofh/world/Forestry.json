@@ -1,5 +1,5 @@
 {
-	"copper": {
+	"for_copper": {
         "template": "uniform",
         "block": "ThermalFoundation:Ore",
         "clusterSize": 7,
@@ -18,7 +18,7 @@
         ]
     }, 
 	
-	"tin": {
+	"for_tin": {
         "template": "uniform",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 1},
         "clusterSize": 8,
@@ -37,7 +37,7 @@
         ]
     },
 	
-	"apatite": {
+	"for_apatite": {
         "template": "uniform",
         "block": "Forestry:resources",
         "clusterSize": 15,

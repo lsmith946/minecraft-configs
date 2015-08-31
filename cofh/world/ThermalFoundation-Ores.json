@@ -1,5 +1,5 @@
 {
-    "copper": {
+    "tf_copper": {
         "template": "uniform",
         "block": "ThermalFoundation:Ore",
         "clusterSize": 8,
@@ -17,7 +17,7 @@
             1
         ]
     },
-    "tin": {
+    "tf_tin": {
         "template": "uniform",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 1},
         "clusterSize": 8,
@@ -35,7 +35,7 @@
             1
         ]
     },
-    "silver": {
+    "tf_silver": {
         "template": "uniform",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 2},
         "clusterSize": 8,
@@ -53,7 +53,7 @@
             1
         ]
     },
-    "lead": {
+    "tf_lead": {
         "template": "uniform",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 3},
         "clusterSize": 8,
@@ -71,7 +71,7 @@
             1
         ]
     },
-    "nickel": {
+    "tf_nickel": {
         "template": "uniform",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 4},
         "clusterSize": 5,
@@ -89,7 +89,7 @@
             1
         ]
     },
-    "platinum": {
+    "tf_platinum": {
         "template": "uniform",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 5},
         "clusterSize": 1,
