@@ -55,7 +55,7 @@
         "block": "iron_ore",
         "material": "minecraft:stone",
         "clusterSize": 7,
-        "numClusters": 11,
+        "numClusters": 12,
         "minHeight": 0,
         "maxHeight": 64,
         "retrogen": "true",
