@@ -4,8 +4,8 @@
         "block": "BigReactors:YelloriteOre",
         "clusterSize": 6,
         "numClusters": 3,
-        "minHeight": 1,
-        "maxHeight": 49,
+        "minHeight": 5,
+        "maxHeight": 25,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [

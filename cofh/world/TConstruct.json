@@ -4,8 +4,8 @@
         "block": "ThermalFoundation:Ore",
         "clusterSize": 8,
         "numClusters": 1,
-        "minHeight": 17,
-        "maxHeight": 59,
+        "minHeight": 45,
+        "maxHeight": 65,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
@@ -23,8 +23,8 @@
         "block": {"name": "ThermalFoundation:Ore", "metadata": 1},
         "clusterSize": 7,
         "numClusters": 1,
-        "minHeight": 1,
-        "maxHeight": 39,
+        "minHeight": 45,
+        "maxHeight": 65,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
@@ -42,8 +42,8 @@
         "block": "ThermalFoundation:Ore",
         "clusterSize": 3,
         "numClusters": 5,
-        "minHeight": 1,
-        "maxHeight": 62,
+        "minHeight": 35,
+        "maxHeight": 55,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
