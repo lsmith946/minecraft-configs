@@ -1,4 +1,2 @@
 # minecraft-configs
-Configuration files for Minecraft mods with slightly more challenge
-
-All commits will contain the mod version with which the config file was generated.
+Configuration files which have had lines added or removed and so cannot be modified using the substitution script
