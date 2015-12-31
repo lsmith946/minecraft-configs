@@ -1,0 +1,20 @@
+{
+    "gs_basalt": {
+        "template": "uniform",
+        "block": "ganyssurface:basalt",
+        "clusterSize": 64,
+        "numClusters": 12,
+        "minHeight": 0,
+        "maxHeight": 127,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
