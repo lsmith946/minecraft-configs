@@ -1,5 +1,5 @@
 {
-    "tf_copper": {
+    "de_draconium": {
         "template": "uniform",
         "block": "DraconicEvolution:draconiumOre",
         "clusterSize": 1,
