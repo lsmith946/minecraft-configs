@@ -72,7 +72,7 @@
         "block": "gold_ore",
         "material": "minecraft:stone",
         "clusterSize": 7,
-        "numClusters": 1,
+        "numClusters": 2,
         "minHeight": 20,
         "maxHeight": 40,
         "retrogen": "true",
